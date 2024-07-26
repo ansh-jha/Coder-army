@@ -1,0 +1,1 @@
+ans = ans + pow(rem, digit);
